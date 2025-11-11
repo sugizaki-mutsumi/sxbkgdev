@@ -1,0 +1,2 @@
+sxrbg_hpmap_ns64r50_ray.fits filter=lfs diff=lfs merge=lfs -text
+xrbkg_rayspec.fits filter=lfs diff=lfs merge=lfs -text
