@@ -7,7 +7,7 @@ Soft X-ray background spectra of ROSAT PSPC energy bin (7 bands 0.1-2 keV), mode
 - xrbkg_rayspec.fits <br>
 X-ray background spectra of nominal energy bin (0.1-10 keV / 5 eV step = 1980 bins), with the same model function for the same healpix of NSIDE = 64 (Number of pixels = 49152).
 
-## Example
+## Examples
 - Example to use sxrbg_hpmap_ns64r50_ray.fits <br> 
   - python script [plt_sxbkgspec.py](plt_sxbkgspec.py)
   - juypyter-notebook [plt_sxbkgspec.ipynb](plt_sxbkgspec.ipynb)
